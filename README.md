@@ -2,6 +2,7 @@
 
 O curso de Desenvolvimento Web Back-end com Node.js, ministrado no SENAC da Lapa Tito, oferece uma abordagem prática e aprofundada no desenvolvimento de aplicações back-end utilizando Node.js.
 
+
 ## Ementa 📚
 
 - Configurar o ambiente de desenvolvimento back-end, seguindo os padrões do Node.js
@@ -16,10 +17,10 @@ O curso de Desenvolvimento Web Back-end com Node.js, ministrado no SENAC da Lapa
 - Interpretar requisitos de pessoas usuárias
 
 
-
 ## Organização de pastas 🗂️
 
-No GitHub, o conteúdo está organizado conforme os dias de aula, podendo ser por projetos. Cada pasta contém todo o material desenvolvido no respectivo dia, facilitando o acesso e a gestão dos recursos do curso.
+No GitHub, o material está estruturado por dias de aula ou por projetos específicos. Cada pasta reúne todos os recursos e documentos referentes a um determinado dia, tornando mais fácil encontrar e gerenciar o conteúdo do curso.
+
 
 ## Certificado emitido pelo SENAC 🏅
 
